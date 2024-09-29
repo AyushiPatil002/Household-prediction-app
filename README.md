@@ -6,11 +6,13 @@ Key Features
 
 Simple linear regression modeling
 Household feature analysis (income, family size, location),Expense prediction,Data visualization (scatter plots, residual plots),Model evaluation (R-squared, mean squared error)
-,Future Work
+
+Future Work
 
 Incorporate additional features (e.g., location, housing type)
 ,Develop multiple linear regression models,
 ,Expand dataset to include more diverse populations,
+
 Also, consider adding sections like:
 
 Data Dictionary: Describe the variables and features in the dataset.
